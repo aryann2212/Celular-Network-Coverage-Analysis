@@ -7,8 +7,7 @@ Data Processing: Efficiently analyzed base stations, antennas, and coverage area
 Command-Line Interface: Implemented a menu with options for global statistics, base station statistics, and coverage checks.
 Statistical Analysis: Calculated comprehensive statistics including the total number of base stations, antennas, and detailed coverage information.
 Coverage Verification: Verified if specific coordinates are covered and identified the nearest antennas along with received power information.
-Usage
-Prerequisites
-Python 3.x
-command line formt:
+
+	
+command line format:
 python3 your_code.py test_file_json.json
